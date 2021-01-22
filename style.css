@@ -258,8 +258,9 @@
                 }
                 
                 .zone3 {
+                    background-color: cornflowerblue;
                     flex-basis: 70%;
-                    min-height:100vh;
+                    height: 100%;
                 }
                 
                 .zone3-1 {
@@ -366,6 +367,7 @@
                     flex-direction: column;
                     flex-basis: 60%;
                     background-color: #E5E7E9;
+                    min-height: 0;
                     overflow-y: scroll;
                 }
                 
